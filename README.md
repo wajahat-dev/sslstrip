@@ -1,1 +1,3 @@
 # sslstrip
+
+# pip install StrippingProxy
